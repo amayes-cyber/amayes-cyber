@@ -10,7 +10,7 @@ I'm moving into cybersecurity from a decade of information governance work in sc
 - Security awareness training
 
 ## Projects
-- [Custom PC Build] (https://github.com/amayes-cyber/custom-pc-build): Personal project completed after passing CompTIA A+ Core 1 and Core 2: requirements analysis, hardware selection, OS setup and troubleshooting notes.
+- [Custom PC Build](https://github.com/amayes-cyber/custom-pc-build): Personal project completed after passing CompTIA A+ Core 1 and Core 2: requirements analysis, hardware selection, OS setup and troubleshooting notes.
 - [Botium Toys: Security Audit and Compliance Assessment](https://github.com/amayes-cyber/botium-toys-security-audit): Scenario-based audit of a simulated small business: control-gap analysis, risk rating, PCI DSS, GDPR and SOC readiness review, and a prioritized remediation roadmap. Based on a Google Cybersecurity Certificate exercise.
  
 
