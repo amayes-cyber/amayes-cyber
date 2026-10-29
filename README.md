@@ -10,7 +10,7 @@ I'm moving into cybersecurity from a decade of information governance work in sc
 - Security awareness training
 
 ## Projects
-- Coming Soon!! Stay Tuned!
+- [Custom PC Build] (https://github.com/amayes-cyber/custom-pc-build)
 
 ## Certifications
 CompTIA Security+ | CompTIA Network+ | CompTIA A+ | ITIL 4 Foundation | Google Cybersecurity Professional Certificate
